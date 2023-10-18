@@ -19,8 +19,8 @@ https://arxiv.org/abs/2310.04378
 https://latent-consistency-models.github.io/
 
 ## Model
-LCM Model: https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7
-Base Model: [Dreamshaper_v7](https://civitai.com/models/4384/dreamshaper) (Thanks to [Lykon](https://civitai.com/user/Lykon/models) ❤)
+LCM Model: [LCM_Dreamshaper_v7](https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7) (Thanks to [SimianLuo](https://twitter.com/SimianLuo) ❤) <br />
+Base Model: [Dreamshaper_v7](https://civitai.com/models/4384/dreamshaper) (Thanks to [Lykon](https://civitai.com/user/Lykon/models) ❤) <br />
 
 ## Output
 
