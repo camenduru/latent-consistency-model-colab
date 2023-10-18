@@ -19,7 +19,7 @@ https://arxiv.org/abs/2310.04378
 https://latent-consistency-models.github.io/
 
 ## Model
-Dreamshaper_v7 - https://civitai.com/models/4384/dreamshaper (Thanks to [Lykon](https://civitai.com/user/Lykon/models) ❤)
+[Dreamshaper_v7](https://civitai.com/models/4384/dreamshaper) (Thanks to [Lykon](https://civitai.com/user/Lykon/models) ❤)
 
 ## Output
 
