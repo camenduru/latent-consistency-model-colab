@@ -20,3 +20,4 @@ https://latent-consistency-models.github.io/
 
 ## Output
 
+https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/2ebcbd2d-81e7-4a87-8724-32c2a5ddecfd
