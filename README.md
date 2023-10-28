@@ -27,3 +27,7 @@ Base Model: [Dreamshaper_v7](https://civitai.com/models/4384/dreamshaper) (Thank
 ## Output
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/2ebcbd2d-81e7-4a87-8724-32c2a5ddecfd
+
+https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/845512fd-cea0-49bf-93af-45f9be73eb64
+
+
