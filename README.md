@@ -7,7 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_colab.ipynb) | latent_consistency_model_colab (Dreamshaper_v7)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) LCM txt2img LCM img2img LCM vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤)
 
 ## Main Repo
 https://github.com/luosiallen/latent-consistency-model <br />
