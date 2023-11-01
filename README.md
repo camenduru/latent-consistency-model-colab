@@ -33,4 +33,6 @@ https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/2ebc
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/845512fd-cea0-49bf-93af-45f9be73eb64
 
+https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/483cf5a1-7e08-4236-bf37-a632ef4d2765
+
 
