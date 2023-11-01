@@ -7,12 +7,14 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_colab.ipynb) | latent_consistency_model_colab (Dreamshaper_v7)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤) (Dreamshaper_v7)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_fast_colab.ipynb) | latent_consistency_model_fast_colab (Dreamshaper_v7)
 
 ## Main Repo
 https://github.com/luosiallen/latent-consistency-model <br />
 https://github.com/0xbitches/sd-webui-lcm <br />
 https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model/tree/main <br />
+https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model-Text-To-Image/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2310.04378
@@ -23,6 +25,7 @@ https://latent-consistency-models.github.io/
 ## Model
 LCM Model: [LCM_Dreamshaper_v7](https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7) (Thanks to [SimianLuo](https://twitter.com/SimianLuo) ❤) <br />
 Base Model: [Dreamshaper_v7](https://civitai.com/models/4384/dreamshaper) (Thanks to [Lykon](https://civitai.com/user/Lykon/models) ❤) <br />
+VAE Model: [Tiny AutoEncoder](https://huggingface.co/madebyollin/taesd) (Thanks to [madebyollin](https://twitter.com/madebyollin) ❤) <br />
 
 ## Output
 
