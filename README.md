@@ -10,6 +10,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤) (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_fast_colab.ipynb) | latent_consistency_model_fast_colab (Dreamshaper_v7)
 
+
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/latent-consistency-model-fast) | latent-consistency-model-fast_kaggle (Free T4)
+
+
 ## Main Repo
 https://github.com/luosiallen/latent-consistency-model <br />
 https://github.com/0xbitches/sd-webui-lcm <br />
