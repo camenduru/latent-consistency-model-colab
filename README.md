@@ -10,6 +10,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | standalone [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤) (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_fast_colab.ipynb) | latent_consistency_model_fast_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_colab.ipynb) | lcm_draw_colab (Dreamshaper_v7)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/sdxl_lcm_diffusers_colab.ipynb) | sdxl_lcm_diffusers_colab (SDXL)
 
 
 ## 🦆 Kaggle
