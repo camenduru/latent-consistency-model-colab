@@ -7,7 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_colab.ipynb) | latent_consistency_model_colab (Dreamshaper_v7)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | latent_consistency_model_webui_colab [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤) (Dreamshaper_v7)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_webui_colab.ipynb) | latent_consistency_model_webui_colab <br /> [sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) txt2img img2img vid2vid <br /> (thanks to [0xbitches](https://github.com/0xbitches) ❤) (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_fast_colab.ipynb) | latent_consistency_model_fast_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_colab.ipynb) | lcm_draw_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/sdxl_lcm_diffusers_colab.ipynb) | sdxl_lcm_diffusers_colab (SDXL)
@@ -40,15 +40,19 @@ VAE Model: [Tiny AutoEncoder](https://huggingface.co/madebyollin/taesd) (Thanks 
 
 ## Output
 latent_consistency_model_colab
+
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/2ebcbd2d-81e7-4a87-8724-32c2a5ddecfd
 
 latent_consistency_model_webui_colab
+
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/845512fd-cea0-49bf-93af-45f9be73eb64
 
 latent_consistency_model_fast_colab
+
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/483cf5a1-7e08-4236-bf37-a632ef4d2765
 
 lcm_draw_colab
+
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/35a3c060-9c0a-401f-9a8d-85e18cc8dca6
 
 
