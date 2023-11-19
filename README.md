@@ -55,4 +55,6 @@ lcm_draw_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/35a3c060-9c0a-401f-9a8d-85e18cc8dca6
 
+lcm_controlnet_canny_draw_colab
 
+https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/f0574808-c758-421e-98d5-00fc1d06e214
