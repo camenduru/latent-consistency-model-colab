@@ -11,7 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_fast_colab.ipynb) | latent_consistency_model_fast_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_colab.ipynb) | lcm_draw_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/sdxl_lcm_diffusers_colab.ipynb) | sdxl_lcm_diffusers_colab (SDXL)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_controlnet_canny_draw_colab.ipynb) | lcm_controlnet_canny_draw_colab (Anything_v3)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_controlnet_canny_paint_colab.ipynb) | lcm_controlnet_canny_paint_colab (Anything_v3)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_canny_colab.ipynb) | lcm_draw_canny_colab (852wa/SDHK)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_scribble_colab.ipynb) | lcm_draw_scribble_colab (852wa/SDHK)
 
@@ -57,6 +57,6 @@ lcm_draw_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/35a3c060-9c0a-401f-9a8d-85e18cc8dca6
 
-lcm_controlnet_canny_draw_colab
+lcm_controlnet_canny_paint_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/f0574808-c758-421e-98d5-00fc1d06e214
