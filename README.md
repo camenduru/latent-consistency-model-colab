@@ -67,11 +67,11 @@ lcm_draw_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/35a3c060-9c0a-401f-9a8d-85e18cc8dca6
 
-lcm_controlnet_canny_paint_colab
+lcm_anything_controlnet_canny_paint_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/f0574808-c758-421e-98d5-00fc1d06e214
 
-lcm_controlnet_canny_draw_colab
+lcm_sdhk_controlnet_canny_draw_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/c10968e5-9287-4d9c-8dd3-1a245c0cf141
 
