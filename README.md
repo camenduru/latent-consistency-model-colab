@@ -12,6 +12,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_colab.ipynb) | lcm_draw_colab (Dreamshaper_v7)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/sdxl_lcm_diffusers_colab.ipynb) | sdxl_lcm_diffusers_colab (SDXL)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_controlnet_canny_draw_colab.ipynb) | lcm_controlnet_canny_draw_colab (Anything_v3)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_canny_colab.ipynb) | lcm_draw_canny_colab (852wa/SDHK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_draw_scribble_colab.ipynb) | lcm_draw_scribble_colab (852wa/SDHK)
 
 
 ## 🦆 Kaggle
