@@ -16,7 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_sdhk_controlnet_canny_paint_colab.ipynb) | lcm_sdhk_controlnet_canny_paint_colab ([852wa/SDHK](https://huggingface.co/852wa/SDHK))
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_sdhk_controlnet_canny_draw_colab.ipynb) | lcm_sdhk_controlnet_canny_draw_colab ([852wa/SDHK](https://huggingface.co/852wa/SDHK))
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_sdhk_controlnet_scribble_draw_colab.ipynb) | lcm_sdhk_controlnet_scribble_draw_colab ([852wa/SDHK](https://huggingface.co/852wa/SDHK))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/lcm_sdhk_controlnet_canny_ip_adapter_full_face_paint_colab.ipynb) | lcm_sdhk_controlnet_canny_ip_adapter_full_face_paint_colab ([852wa/SDHK](https://huggingface.co/852wa/SDHK))
 
 ## 🦆 Kaggle
 
