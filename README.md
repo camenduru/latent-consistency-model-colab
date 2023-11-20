@@ -22,6 +22,9 @@
 | --- | --- |
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/latent-consistency-model-fast) | latent-consistency-model-fast_kaggle (Free T4)
 
+## Tutorial
+We can use it with any model without training. 🥳 Just change the model name.
+![Screenshot 2023-11-20 063740](https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/9ccd415d-d337-4f95-8833-d985df1f15ae)
 
 ## Main Repo
 https://github.com/luosiallen/latent-consistency-model <br />
