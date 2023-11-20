@@ -75,3 +75,7 @@ lcm_sdhk_controlnet_canny_draw_colab
 
 https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/c10968e5-9287-4d9c-8dd3-1a245c0cf141
 
+lcm_sdhk_controlnet_canny_ip_adapter_full_face_paint_colab
+
+https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/24dafe08-cf0d-44d7-9064-4809b03e2fe6
+
