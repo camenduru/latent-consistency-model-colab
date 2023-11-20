@@ -27,6 +27,7 @@ We can use it with any model without training. 🥳 Just change the model name.
 ![Screenshot 2023-11-20 063740](https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/9ccd415d-d337-4f95-8833-d985df1f15ae)
 
 with `uf/cyberrealistic_v3.3` https://civitai.com/models/15003/cyberrealistic
+![Screenshot 2023-11-20 083203](https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/5658c3d1-53b7-4429-893a-9a6e0d0839e2)
 ![Screenshot 2023-11-20 074658](https://github.com/camenduru/latent-consistency-model-colab/assets/54370274/ef59955b-8a74-40c3-a68d-c3c6e2cbcd99)
 
 
